@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"salgo_visualizer","l":"GUI"},{"p":"salgo_visualizer","l":"Launcher"}];updateSearchResults();

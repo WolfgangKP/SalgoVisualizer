@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"salgo_visualizer","c":"GUI","l":"GUI()","u":"%3Cinit%3E()"},{"p":"salgo_visualizer","c":"Launcher","l":"Launcher()","u":"%3Cinit%3E()"},{"p":"salgo_visualizer","c":"Launcher","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"salgo_visualizer","c":"GUI","l":"show()"}];updateSearchResults();
